@@ -1,4 +1,4 @@
-# assignment_laudryapp
+# assignment_laundryapp
 
 A new Flutter project.
 
